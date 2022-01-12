@@ -822,7 +822,7 @@
             "asset": "c60_t0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
             "type": "ERC20",
             "address": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
-            "name": "DefiPulse Index",
+            "name": "DeFi Pulse Index",
             "symbol": "DPI",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b/logo.png",
@@ -1350,7 +1350,7 @@
         {
             "asset": "c60_t0x41a3dba3d677e573636ba691a70ff2d606c29666",
             "type": "ERC20",
-            "address": "0x41a3dba3d677e573636ba691a70ff2d606c29666",
+            "address": "0x41A3Dba3D677E573636BA691a70ff2D606c29666",
             "name": "GoBlank",
             "symbol": "BLANK",
             "decimals": 18,
@@ -1503,7 +1503,7 @@
             "type": "ERC20",
             "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
             "name": "ChainLink",
-            "symbol": "Link",
+            "symbol": "LINK",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png",
             "pairs": []
@@ -2021,7 +2021,7 @@
             "asset": "c60_t0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
             "type": "ERC20",
             "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
-            "name": "Lend",
+            "name": "Aave",
             "symbol": "LEND",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03/logo.png",
@@ -2188,16 +2188,6 @@
             "symbol": "FX",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x8c15Ef5b4B21951d50E53E4fbdA8298FFAD25057/logo.png",
-            "pairs": []
-        },
-        {
-            "asset": "c60_t0x8c8687fC965593DFb2F0b4EAeFD55E9D8df348df",
-            "type": "ERC20",
-            "address": "0x8c8687fC965593DFb2F0b4EAeFD55E9D8df348df",
-            "name": "PAID Network",
-            "symbol": "PAID",
-            "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x8c8687fC965593DFb2F0b4EAeFD55E9D8df348df/logo.png",
             "pairs": []
         },
         {
@@ -3178,7 +3168,7 @@
             "type": "ERC20",
             "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
             "name": "Kyber Network Crystal",
-            "symbol": "KNC",
+            "symbol": "KNCL",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xdd974D5C2e2928deA5F71b9825b8b646686BD200/logo.png",
             "pairs": []
@@ -3279,7 +3269,7 @@
             "type": "ERC20",
             "address": "0xE95A203B1a91a908F9B9CE46459d101078c2c3cb",
             "name": "aEthereum",
-            "symbol": "aEth",
+            "symbol": "aETHc",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xE95A203B1a91a908F9B9CE46459d101078c2c3cb/logo.png",
             "pairs": []
@@ -3480,7 +3470,7 @@
             "asset": "c60_t0xF938424F7210f31dF2Aee3011291b658f872e91e",
             "type": "ERC20",
             "address": "0xF938424F7210f31dF2Aee3011291b658f872e91e",
-            "name": "VISOR",
+            "name": "Visor.Finance",
             "symbol": "VISR",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xF938424F7210f31dF2Aee3011291b658f872e91e/logo.png",
@@ -3500,7 +3490,7 @@
             "asset": "c60_t0xfAd45E47083e4607302aa43c65fB3106F1cd7607",
             "type": "ERC20",
             "address": "0xfAd45E47083e4607302aa43c65fB3106F1cd7607",
-            "name": "hoge.finance",
+            "name": "Hoge Finance",
             "symbol": "HOGE",
             "decimals": 9,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xfAd45E47083e4607302aa43c65fB3106F1cd7607/logo.png",
@@ -3540,7 +3530,7 @@
             "asset": "c60_t0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf",
             "type": "ERC20",
             "address": "0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf",
-            "name": "Reef.finance",
+            "name": "Reef",
             "symbol": "REEF",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf/logo.png",
@@ -3614,6 +3604,46 @@
             "symbol": "SPELL",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x090185f2135308BaD17527004364eBcC2D37e5F6/logo.png",
+            "pairs": []
+        },
+        {
+            "asset": "c60_t0x3b484b82567a09e2588A13D54D032153f0c0aEe0",
+            "type": "ERC20",
+            "address": "0x3b484b82567a09e2588A13D54D032153f0c0aEe0",
+            "name": "OpenDAO",
+            "symbol": "SOS",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x3b484b82567a09e2588A13D54D032153f0c0aEe0/logo.png",
+            "pairs": []
+        },
+        {
+            "asset": "c60_t0x6Bba316c48b49BD1eAc44573c5c871ff02958469",
+            "type": "ERC20",
+            "address": "0x6Bba316c48b49BD1eAc44573c5c871ff02958469",
+            "name": "Gas DAO",
+            "symbol": "GAS",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x6Bba316c48b49BD1eAc44573c5c871ff02958469/logo.png",
+            "pairs": []
+        },
+        {
+            "asset": "c60_t0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+            "type": "ERC20",
+            "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+            "name": "Binance USD",
+            "symbol": "BUSD",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x4Fabb145d64652a948d72533023f6E7A623C7C53/logo.png",
+            "pairs": []
+        },
+        {
+            "asset": "c60_t0x9E32b13ce7f2E80A01932B42553652E053D6ed8e",
+            "type": "ERC20",
+            "address": "0x9E32b13ce7f2E80A01932B42553652E053D6ed8e",
+            "name": "MetisDAO",
+            "symbol": "Metis",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x9E32b13ce7f2E80A01932B42553652E053D6ed8e/logo.png",
             "pairs": []
         }
     ],
